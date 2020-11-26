@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/online_market/static/css/main.3ecfac0f.chunk.css",
+    "main.js": "/online_market/static/js/main.91f541f6.chunk.js",
+    "main.js.map": "/online_market/static/js/main.91f541f6.chunk.js.map",
+    "runtime-main.js": "/online_market/static/js/runtime-main.3b05623c.js",
+    "runtime-main.js.map": "/online_market/static/js/runtime-main.3b05623c.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/online_market/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f642c994.chunk.js": "/online_market/static/js/2.f642c994.chunk.js",
+    "static/js/2.f642c994.chunk.js.map": "/online_market/static/js/2.f642c994.chunk.js.map",
+    "static/js/3.48a43c6b.chunk.js": "/online_market/static/js/3.48a43c6b.chunk.js",
+    "static/js/3.48a43c6b.chunk.js.map": "/online_market/static/js/3.48a43c6b.chunk.js.map",
+    "index.html": "/online_market/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/online_market/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.3ecfac0f.chunk.css.map": "/online_market/static/css/main.3ecfac0f.chunk.css.map",
+    "static/js/2.f642c994.chunk.js.LICENSE.txt": "/online_market/static/js/2.f642c994.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b05623c.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f642c994.chunk.js",
+    "static/css/main.3ecfac0f.chunk.css",
+    "static/js/main.91f541f6.chunk.js"
+  ]
+}
